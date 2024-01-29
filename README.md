@@ -1,10 +1,8 @@
 
 
 👋 Hello World! I'm Tatiana
-- 👀 I’m interested in cloud solutions architecture 
-- 🌱 I’m currently learning HTML, CSS and Javascript
-
-🌟 Here to push code to the limits and collaborate with fellow developers.
+- 👀 I’m interested in Quality Assurance and Data
+- 
 🔧 Building the future one commit at a time.
 🌐 Exploring the digital wilderness and crafting elegant solutions.
 
