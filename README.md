@@ -1,7 +1,6 @@
 
 
 👋 Hello World! I'm Tatiana
-- 👀 I’m interested in Quality Assurance and Data
 - 
 🔧 Building the future one commit at a time.
 🌐 Exploring the digital wilderness and crafting elegant solutions.
@@ -10,13 +9,9 @@
 📧 Email: tatiana.n.makunike@gmail.com
 
 🛠️ Favorite Tech Stack:
-💻 Languages: JavaScript, Java, Python
+💻 Languages: JavaScript, Java, Python, C#
 🌐 Web: React, Node.js, HTML/CSS
 📊 Data: SQL
-
-🚴 Hobbies:
-🎨 Painting  | 🎵 Music | 🎾 Tennis | 🛍️ Shopping 
-
 
 
 <!---
