@@ -2,16 +2,14 @@
 
 👋 Hello World! I'm Tatiana
 - 
-🔧 Building the future one commit at a time.
-🌐 Exploring the digital wilderness and crafting elegant solutions.
 
 📫 Let's connect:
 📧 Email: tatiana.n.makunike@gmail.com
 
 🛠️ Favorite Tech Stack:
 💻 Languages: JavaScript, Java, Python, C#
-🌐 Web: React, Node.js, HTML/CSS
-📊 Data: SQL
+🌐 Web: HTML/CSS
+📊 cloud: AWS
 
 
 <!---
